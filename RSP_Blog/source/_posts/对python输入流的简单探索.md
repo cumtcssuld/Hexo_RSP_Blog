@@ -140,4 +140,4 @@ print(' '.join(input().split()[::-1]))
 <img src=https://img-blog.csdnimg.cn/20200214103649856.jpg width='50%'>
 
 ----
-这是Vito的第二篇原创博客，以后我会陆续介绍学习python的一点心得。除了在CSDN上发布博客，我也会在[矿大计算机学院资源传承计划（Resource Inheritance Plan of CUMTCS）](https://github.com/cumtcssuld/RIP_of_CUMTCS)这个GitHub资源库里分享我的学习资料和博客
+这是Vito的第二篇原创博客，以后我会陆续介绍学习python的一点心得。除了在CSDN上发布博客，我也会在[矿大计算机学院资源共享计划（Resource Sharing Plan of CUMTCS）](https://github.com/cumtcssuld/RSP_of_CUMTCS)这个GitHub资源库里分享我的学习资料和博客

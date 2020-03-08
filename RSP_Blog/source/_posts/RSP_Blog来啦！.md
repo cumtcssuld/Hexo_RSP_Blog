@@ -1,19 +1,19 @@
 ---
-title: RIP_Blog来啦【置顶】
+title: RSP_Blog来啦【置顶】
 date: 2020-02-13 21:45:00
 categories: 博客管理
 tags:
-	- RIP_Blog
+	- RSP_Blog
 	- 博客上线啦
 top: 1
-excerpt: 作为RIP的重要组成部分，RIP_Blog终于上线啦！
+excerpt: 作为RSP的重要组成部分，RSP_Blog终于上线啦！
 ---
 
 
 
-# RIP_Blog来啦！
+# RSP_Blog来啦！
 
-2月10日，我们正式推出了RIP_of_CUMTCS项目，即矿大计算机学院资源传承计划。今天，作为RIP一部分的RIP_Blog也上线啦！
+2月10日，我们正式推出了RSP_of_CUMTCS项目，即矿大计算机学院资源共享计划。今天，作为RSP一部分的RSP_Blog也上线啦！
 
 # 借助这个平台，我们打算干这些事儿
 
@@ -33,14 +33,14 @@ excerpt: 作为RIP的重要组成部分，RIP_Blog终于上线啦！
 
 ## 投稿方式
 
-- 向学习部的GitHub账户下的[RIP_Blog_Contribution](https://github.com/cumtcssuld/RIP_Blog_Contribution)库提交pull request。
+- 向学习部的GitHub账户下的[RSP_Blog_Contribution](https://github.com/cumtcssuld/RSP_Blog_Contribution)库提交pull request。
 - 向学习菌QQ号投稿,学习菌QQ号为：1390274240。
 - 发送邮件到[学习部邮箱](cumtcssuld@foxmail.com)。
 
 ## 稿件要求
 
 - 格式为markdown格式
-- 若使用了图片，请在markdown文件中使用**相对链接**，并将图片和`.md`文件一并打包发给我们
+- 若使用了图片，请在markdown文件中使用**相对链接**，并将图片和`.md`文件一并打包发给我们（或者是使用已经上传到其他平台的在线图片链接）
 - 请尽可能的给文章打上几个标签
 
 
