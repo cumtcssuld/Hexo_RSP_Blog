@@ -35,14 +35,14 @@ excerpt: 作为RSP的重要组成部分，RSP_Blog终于上线啦！
 
 - 向学习部的GitHub账户下的[RSP_Blog_Contribution](https://github.com/cumtcssuld/RSP_Blog_Contribution)库提交pull request。
 - 向学习菌QQ号投稿,学习菌QQ号为：1390274240。
-- 发送邮件到[学习部邮箱](cumtcssuld@foxmail.com)。
+- 发送邮件到[学习部邮箱](mailto:cumtcssuld@foxmail.com)。
 
 ## 稿件要求
 
 - 格式为markdown格式
-- 若使用了图片，请在markdown文件中使用**相对链接**，并将图片和`.md`文件一并打包发给我们（或者是使用已经上传到其他平台的在线图片链接）
+- 若使用了图片，请在markdown中嵌入已经上传到其他平台的在线图片链接，或在markdown文件中使用**相对链接**，并将图片和`.md`文件一并打包发给我们
 - 请尽可能的给文章打上几个标签
 
 
 
-CUMTCSSULD　２０年２月１３日
+CUMTCSSULD（矿大计算机学院学生会学习部）　2020年2月13日

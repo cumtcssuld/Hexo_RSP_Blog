@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -98,6 +98,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/cumtcssuld/cumtcssuld.github.io
+- type: git
+  repo: git@gitee.com:cumtcssuld/cumtcssuld.git
+  branch: master
+- type: git
+  repo: git@github.com:cumtcssuld/cumtcssuld.github.io.git
   branch: master
